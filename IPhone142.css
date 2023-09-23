@@ -1,0 +1,154 @@
+.iphone-14-2-child,
+.rectangle-icon1 {
+  position: absolute;
+  top: 42px;
+  width: 470px;
+  height: 682px;
+}
+.iphone-14-2-child {
+  left: -59px;
+  background-color: var(--color-gray-200);
+}
+.rectangle-icon1 {
+  left: 0;
+  object-fit: cover;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+}
+.iphone-14-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 390px;
+  height: 42px;
+}
+.vector-icon8 {
+  position: absolute;
+  top: 18px;
+  left: 307px;
+  width: 4.5px;
+  height: 7.6px;
+}
+.vector-icon10,
+.vector-icon9 {
+  position: absolute;
+  top: 17px;
+  left: 323px;
+  width: 8px;
+  height: 7.64px;
+}
+.vector-icon10 {
+  top: 19px;
+  left: 343px;
+  width: 7.6px;
+  height: 5.6px;
+}
+.iphone-14-2-inner {
+  position: absolute;
+  top: 17px;
+  left: 362px;
+  width: 8px;
+  height: 8px;
+}
+.free-delivery1,
+.login1,
+.return-policy1 {
+  position: absolute;
+  top: 14px;
+  left: 268px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray);
+}
+.free-delivery1,
+.return-policy1 {
+  left: 44px;
+}
+.return-policy1 {
+  left: 127px;
+}
+.layer-156-icon1 {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  width: 21px;
+  height: 12.9px;
+}
+.iphone-14-2-child1 {
+  position: absolute;
+  top: 11.5px;
+  left: 115.5px;
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1px;
+  height: 20px;
+}
+.curved-cross {
+  position: absolute;
+  height: 3.31%;
+  width: 6.15%;
+  top: 9.81%;
+  right: 5.13%;
+  bottom: 86.88%;
+  left: 88.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about1,
+.contact-us1,
+.home1,
+.our-products {
+  position: absolute;
+  top: 209px;
+  left: 160px;
+  font-family: var(--body-text-18);
+  text-align: center;
+  display: inline-block;
+  width: 71px;
+  height: 28px;
+  -webkit-text-stroke: 1px #fff;
+}
+.about1,
+.contact-us1,
+.our-products {
+  top: 283px;
+  width: 70px;
+}
+.contact-us1,
+.our-products {
+  top: 453px;
+  left: 136px;
+  width: 118px;
+}
+.our-products {
+  top: 369px;
+  left: 117px;
+  width: 156px;
+}
+.iphone-14-2-child2 {
+  position: absolute;
+  top: 109px;
+  left: 20px;
+  width: 350px;
+  height: 1px;
+}
+.shopkart1 {
+  position: absolute;
+  top: 61px;
+  left: 20px;
+  font-size: var(--font-size-11xl);
+  font-weight: 200;
+  -webkit-text-stroke: 1px #fff;
+}
+.iphone-14-2 {
+  position: relative;
+  background-color: var(--grey-scale-000);
+  width: 100%;
+  height: 724px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-18-size);
+  color: var(--grey-scale-000);
+  font-family: var(--font-poppins);
+}
